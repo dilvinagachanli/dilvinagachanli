@@ -16,7 +16,6 @@
       <img src="https://github.com/dilvinagachanli/dilvinagachanli/assets/76446784/174e4208-3fa2-4516-bbc1-04520b4ea5be" alt="GIF" width="200">
   <img src="https://github.com/dilvinagachanli/dilvinagachanli/assets/76446784/174e4208-3fa2-4516-bbc1-04520b4ea5be" alt="GIF" width="200">
   <img src="https://github.com/dilvinagachanli/dilvinagachanli/assets/76446784/174e4208-3fa2-4516-bbc1-04520b4ea5be" alt="GIF" width="200">
-  <img src="https://github.com/dilvinagachanli/dilvinagachanli/assets/76446784/174e4208-3fa2-4516-bbc1-04520b4ea5be" alt="GIF" width="200">
 </table>
 
 
