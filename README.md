@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi👋🏽</h1>
 
-<!--
-**dilvinagachanli/dilvinagachanli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Software Engineer | 🎮 Game Enthusiast
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I'm Dilvin, currently a software engineering student. I'm interested in many subjects and currently working on Kotlin. I'm open to different projects and ideas no matter what it is!
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🌱 Currently learning: Kotlin
+  <br>
+  💡 Looking to collaborate on interesting projects
+  <br>
+  ✉️ Contact me at <a href="dilvinagachanli@gmail.com">Gmail</a> or <a href="https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/dilvin-ağaçhanlı-61b6021bb">LinkedIn</a>
+</p>
