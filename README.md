@@ -13,5 +13,5 @@
   <br>
   💡 Looking to collaborate on interesting projects
   <br>
-  ✉️ Contact me at <a href="dilvinagachanli@gmail.com">Gmail</a> or <a href="https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/dilvin-ağaçhanlı-61b6021bb">LinkedIn</a>
+  ✉️ Contact me at <a href="dilvinagachanli@gmail.com">Gmail</a> or <a href="https://www.linkedin.com/in/dilvin-ağaçhanlı-61b6021bb">LinkedIn</a>
 </p>
