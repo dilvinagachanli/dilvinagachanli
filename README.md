@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  I'm Dilvin, currently a software engineering student specializing in Kotlin and also SAP ABAP for now. I'm interested in many other subjects too and I'm open to different projects and ideas no matter what it is!
+  I'm Dilvin, currently a software engineering student specializing in Kotlin and also ABAP for now. I'm interested in many other subjects too and I'm open to different projects and ideas no matter what it is!
 </p>
 
 <table align="center">
@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  🌱 I’m constantly learning and exploring: Kotlin, SAP, ABAP, Java, SQL, UI/UX, HTML, CSS
+  🌱 I’m constantly learning and exploring: Kotlin, ABAP, Java, SQL, UI/UX, HTML, CSS
   <br>
   💡 Looking to collaborate on interesting projects!
   <br>
