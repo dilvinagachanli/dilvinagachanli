@@ -11,10 +11,7 @@
   I'm Dilvin, currently a software engineering student specializing in Kotlin and also ABAP for now. I'm interested in many other subjects too and I'm open to different projects and ideas no matter what it is!
 </p>
 
-<table align="center">
-      <img src="https://github.com/dilvinagachanli/dilvinagachanli/assets/76446784/174e4208-3fa2-4516-bbc1-04520b4ea5be" alt="GIF" width="200">
 
-</table>
 
 
 <p align="center">
